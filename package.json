@@ -8,7 +8,7 @@
     "oauth",
     "oauth2"
   ],
-  "repository": "parro-it/electron-google-oauth",
+  "repository": "TheNoim/electron-google-oauth",
   "version": "2.0.0",
   "bin": {
     "ego": "bin.js"
