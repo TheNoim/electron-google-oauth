@@ -1,4 +1,4 @@
-# electron-google-oauth
+# electron-google-oauth-renderer
 
 Get Google api access token using an electron window
 to let the user authorize the app.
